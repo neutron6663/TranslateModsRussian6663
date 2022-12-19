@@ -1,0 +1,452 @@
+IGUI_RU = {
+/**** Alternative Inventory Rendering | blkt_invtrack ****/
+	IGUI_CUI_Display_UpdateRate = "Частота обновления инвентаря",
+	IGUI_CUI_Display_UpdateRate_Tooltip = "",
+	IGUI_CUI_Display_MaxItemPerGroup = "Макс. кол-во предметов в группе предметов",
+	IGUI_CUI_Display_MaxItemPerGroup_Tooltip = "Максимальное количество предметов для отображения в группе предметов",
+	IGUI_CUI_Display_OpacityPresets = "Предустановки непрозрачности инвентаря",
+	IGUI_CUI_Display_OpacityPresets_Tooltip = "",
+	IGUI_CUI_Display_BookMarkStyle = "Стиль значка закладки",
+	IGUI_CUI_Display_BookMarkStyle_Tooltip = "",
+	IGUI_CUI_Display_EquipStyle = "Стиль значка снаряжения",
+	IGUI_CUI_Display_EquipStyle_Tooltip = "",
+	IGUI_CUI_Display_ControllerHighlight = "Cтиль выделения при выборе контроллером",
+	IGUI_CUI_Display_ControllerHighlight_Tooltip = "",
+	IGUI_CUI_Display_BookTrack = "Отмечать книги с более высокими навыками (НЗП)",
+	IGUI_CUI_Display_BookTrack_Tooltip = "",
+
+	IGUI_CUI_Display_EnableDrainableDetail = "Подробное состояние слива",
+	IGUI_CUI_Display_EnableDrainableDetail_Tooltip = "",
+	IGUI_CUI_Display_EnableShowModdedGun = "Модифицированное оружие",
+	IGUI_CUI_Display_EnableShowModdedGun_Tooltip = "",
+	IGUI_CUI_Display_EnableDetailedAttachments = "Вложения в расширенном разделе",
+	IGUI_CUI_Display_EnableDetailedAttachments_Tooltip = "",
+	IGUI_CUI_Display_EnableMagazineDetail = "Подробный статус журнала",
+	IGUI_CUI_Display_EnableMagazineDetail_Tooltip = "",
+
+	IGUI_CUI_Display_EnableTrackLitItems = "Отмечать книги и медиа",
+	IGUI_CUI_Display_EnableTrackLitItems_Tooltip = "",
+	IGUI_CUI_Display_EnableTrackMediaItems = "Отмечать просмотренные медиа",
+	IGUI_CUI_Display_EnableTrackMediaItems_Tooltip = "",
+	IGUI_CUI_Display_EnableBadCondHighlight = "Выделять оружие в плохом состоянии",
+	IGUI_CUI_Display_EnableBadCondHighlight_Tooltip = "",
+	IGUI_CUI_Display_EnableEquipmentLine = "Разделитель снаряжения",
+	IGUI_CUI_Display_EnableEquipmentLine_Tooltip = "Включить разделитель снаряжения",
+	IGUI_CUI_Display_EnablePinItem = "Закрепленный предмет (НЗП)",
+	IGUI_CUI_Display_EnablePinItem_Tooltip = "Отображать закрепленный предмет (НЗП)",
+	IGUI_CUI_Display_EnableFilledMagazine = "Полный запас магазина",
+	IGUI_CUI_Display_EnableFilledMagazine_Tooltip = "Отображать полный запас магазина",
+	IGUI_CUI_Display_ItemDataUpdateRate = "Частота обновления данных предмета",
+	IGUI_CUI_Display_ItemDataUpdateRate_Tooltip = "",
+	IGUI_CUI_Display_InventoryUpdateRate = "Частота обновления инвентаря",
+	IGUI_CUI_Display_InventoryUpdateRate_Tooltip = "",
+	IGUI_CUI_Display_EnableDelayedItemDataUpdate = "Включить отложенное обновление данных элемента",
+	IGUI_CUI_Display_EnableDelayedItemDataUpdate_Tooltip = "",
+	IGUI_CUI_Display_EnableDelayedInventoryUpdate = "Включить отложенное обновление инвентаря",
+	IGUI_CUI_Display_EnableDelayedInventoryUpdate_Tooltip = "",
+	IGUI_CUI_Display_ExperimentalTableWipe = "Салфетка для протирания стола (экспериментальная)",
+	IGUI_CUI_Display_ExperimentalTableWipe_Tooltip = "",
+
+/**** '82 Jeep J10 | 82jeepJ10 ****/
+	-- IGUI_VehicleName82jeepJ10 = "'82 Jeep J10",
+	IGUI_VehicleName82jeepJ10t = "'82 Jeep J10 Сочно-желтый",
+
+	IGUI_VehiclePartJP82Dorothy = "Дороти",
+	IGUI_VehiclePartJP82Windy = "Анемометр",
+
+	IGUI_VehiclePartJP82Rollbar = "Перекладина",
+	IGUI_VehiclePartJP82Roofrack = "Крыша",
+	IGUI_VehiclePartJP82BedCover = "Покрытие багажника",
+	IGUI_VehiclePartJP82TrunkDoorTop = "Крышка покрытия багажника",
+	IGUI_VehiclePartJP82Trunk = "Багажник",
+	IGUI_VehiclePartJP82Trunkt = "Немного места для багажника",
+
+	IGUI_VehiclePartJP82FrontBumper = "Передний бампер",
+	IGUI_VehiclePartJP82RearBumper = "Задник бампер",
+
+	IGUI_VehiclePartJP82SpareTireRear = "Заднее запасное колесо",
+	IGUI_VehiclePartJP82SpareTireRoof = "Запасное колесо на крыше",
+
+	IGUI_VehiclePartJP82WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Броня переднего левого окна",
+	IGUI_VehiclePartJP82WindowFrontRightArmor = "Броня переднего правого окна",
+
+/**** '82 Oshkosh M911 | 82oshkoshM911 ****/
+	IGUI_VehicleName82oshkoshM911 = "'82 Oshkosh M911 (Грузовик)",
+	IGUI_VehicleName82oshkoshM911B = "'82 Oshkosh M911 (Чёрный)",
+	IGUI_VehicleName82oshkoshM911Burnt = "'82 Oshkosh M911 (Сгоревший)",
+
+	IGUI_VehiclePartM911Trunk = "Багажник",
+	IGUI_VehiclePartM911Toolbox = "Ящик инструментов",
+	IGUI_VehiclePartM911Bullbar = "Бампер",
+	IGUI_VehiclePartM911Mudflaps = "Брызговики",
+	IGUI_VehiclePartM911Muffler = "Глушитель",
+	IGUI_VehiclePartM911SpareTire = "Запасная шина",
+	IGUI_VehiclePartM911WindshieldArmor = "Укрепление лобового стекла",
+	IGUI_VehiclePartM911WindshieldRearArmor = "Укрепление заднего лобового стекла",
+	IGUI_VehiclePartM911DoorFrontLeftArmor = "Дверь передняя левая укрепленная",
+	IGUI_VehiclePartM911DoorFrontRightArmor = "Дверь передняя правая укрепленная",
+
+	IGUI_VehicleNameTrailerM747lowbed = "Прицеп с низкой платформой M747",
+	IGUI_VehicleNameTrailerM127stake = "Прицеп stake M127",
+	IGUI_VehicleNameTrailerM128van = "Фургон-прицеп M128",
+	IGUI_VehicleNameTrailerM129van = "Фургон-прицеп M129",
+	IGUI_VehicleNameTrailerM967tanker = "Прицеп-цистерна M967",
+
+	IGUI_VehiclePartM967Trunk2 = "Багажник 2",
+	IGUI_VehiclePartM967Trunk3 = "Багажник 3",
+	IGUI_VehiclePartTrunkDoor2 = "Крышка багажника 2",
+	IGUI_VehiclePartTrunkDoor3 = "Крышка багажника 3",
+
+/**** '86 Ford Econoline E150 | 86fordE150 ****/
+	-- IGUI_VehicleName86fordE150 = "'86 Ford Econoline E-150",
+	IGUI_VehicleName86fordE150pd = "'86 Ford Econoline E-150 Спасательный фургон",
+	-- IGUI_VehicleName86fordE150dnd = "'86 Ford Econoline E-150",
+	IGUI_VehicleName86fordE150mm = "'86 Ford Мистическая машина",
+	IGUI_VehicleName86fordE150slide = "'86 Ford Econoline E-150 (С раздвижной дверью)",
+	IGUI_VehicleName86fordE150long = "'86 Ford Econoline E-150 (Удлинённый вариант)",
+
+	IGUI_VehiclePartE150SpareTire = "Запасное колесо",
+	IGUI_VehiclePartE150Bumper = "Передний бампер",
+	IGUI_VehiclePartE150RearBumper = "Задний бампер",
+	IGUI_VehiclePartE150Divider = "Разделитель кабины",
+
+	IGUI_VehiclePartE150WindshieldArmor = "Броня лобового стекла",
+	IGUI_VehiclePartE150WindshieldRearArmor = "Броня заднего лобового стекла",
+	IGUI_VehiclePartE150WindshieldRearLongArmor = "Броня заднего лобового стекла",
+	IGUI_VehiclePartE150LeftDoorArmor = "Броня левой двери",
+	IGUI_VehiclePartE150RightDoorArmor = "Броня правой двери",
+	IGUI_VehiclePartE150Trunk = "Хранение в багажнике",
+
+	-- IGUI_VehiclePartCatfurvan = "Mutt Cutts Fur",
+
+	-- IGUI_VehiclePartE150FurBody = "Chassis Fur",
+	-- IGUI_VehiclePartE150FurHood = "Hood Fur",
+	-- IGUI_VehiclePartE150FurLeftDoor = "Left Door Fur",
+	-- IGUI_VehiclePartE150FurRightDoor = "Right Door Fur",
+	-- IGUI_VehiclePartE150FurTrunkDoor = "Trunk Doors Fur",
+	-- IGUI_VehiclePartE150FurRearLeg = "Rear Leg",
+	
+	IGUI_VehiclePartCatmysterymachine = "Мистическая машина",
+
+	IGUI_VehiclePartE150MMSpareTire = "Передняя запасная шина",
+	IGUI_VehiclePartE150MMRoofrack = "Багажные полки для досок для серфинга",
+	IGUI_VehiclePartE150MMSurfboards = "Доски для серфинга",
+	
+	IGUI_VehiclePartE150RearSeatOne = "1-е заднее сиденье",
+	IGUI_VehiclePartE150RearSeatTwo = "2-е заднее сиденье",
+	IGUI_VehiclePartE150RearSeatThree = "3-е заднее сиденье",
+	IGUI_VehiclePartE150RearCabinet = "Хранение в заднем шкафу",
+
+/**** '97 ADI Bushmaster | 97bushmaster ****/
+	-- IGUI_VehicleName97bushmaster = "'97 Bushmaster",
+	-- IGUI_VehicleName97bushAmbulance = "'97 Bushmaster Ambulancia",
+	IGUI_VehiclePartSeatDriver = "Сиденье водителя",
+	IGUI_VehiclePartSeatSupport = "Сиденье поддержки",
+	IGUI_VehiclePartSeatCrew1 = "Место экипажа 1",
+	IGUI_VehiclePartSeatCrew2 = "Место экипажа 2",
+	IGUI_VehiclePartSeatCrew3 = "Место экипажа 3",
+	IGUI_VehiclePartSeatCrew4 = "Место экипажа 4",
+	IGUI_VehiclePartSeatCrew5 = "Место экипажа 5",
+	IGUI_VehiclePartSeatCrew6 = "Место экипажа 6",
+	IGUI_VehiclePartSeatCrew7 = "Место экипажа 7",
+	IGUI_VehiclePartSeatCrew8 = "Место экипажа 8",
+	IGUI_VehiclePartGunner = "Место наводчика",
+	IGUI_VehiclePartSeatStretcher = "Носилки",
+	IGUI_VehiclePartBUSHMudflaps = "Брызговики",
+	IGUI_VehiclePartBUSHFenderLeft = "Левое заднее крыло",
+	IGUI_VehiclePartBUSHFenderRight = "Правое заднее крыло",
+	IGUI_VehiclePartStorageLid1 = "Крышка багажника левого крыла",
+	IGUI_VehiclePartStorageLid2 = "Крышка багажника правого крыла",
+	IGUI_VehiclePartStorageLid3 = "Правая боковая крышка багажника",
+	IGUI_VehiclePartBUSHStorageLeft = "Левый боковой багажник",
+	IGUI_VehiclePartBUSHStorageRight = "Правый боковой багажник",
+	IGUI_VehiclePartBUSHRoofCrates = "Багажник на крыше",
+	IGUI_VehiclePartBUSHAmmoCabinet = "Ящик для боеприпасов",
+	IGUI_VehiclePartBUSHMedicCabinet = "Ящик для медикаментов",
+	IGUI_VehiclePartBUSHFloor = "Пол автомобиля",
+	IGUI_VehiclePartBUSHSpareRight = "Запасное колесо справа",
+	IGUI_VehiclePartBUSHSpareRoof = "Запасное колесо на крыше",
+	IGUI_VehiclePartTrunkHatch = "Люк в крыше",
+	IGUI_VehiclePartBUSHBullbar = "Бампер",
+
+/**** Arsenal(26) GunFighter | Arsenal(26)GunFighter ****/
+	IGUI_ItemCat_AmmoBox = "Ящик с патронами",
+	IGUI_ItemCat_GunMag = "Магазин",
+	IGUI_ItemCat_FixedMag = "Фиксированный магазин",
+	IGUI_ItemCat_GunClean = "Чистка оружия",
+	IGUI_ItemCat_WeaponConversion = "Часть оружия",
+	IGUI_ItemCat_Components = "Перезагрузка компонентов",
+	IGUI_ItemCat_ReloadingTool = "Перезагрузка инструмента",
+
+	IGUI_Sandbox_worldOptions = "Параметры GunFighter",
+
+/**** Filibuster Rhymes' Used Cars! | FRUsedCars ****/
+	IGUI_VehiclePartFR_VehicleArmory = "Арсенал",
+	IGUI_VehiclePartFR_VehicleArmory2 = "Арсенал (II)",
+
+/**** itemGPS | itemGPS ****/
+	IGUI_No_miniMap = "Доступ к мини-карте осуществляется через GPS.",
+	IGUI_No_Map_IG = "Нет карты мира.",
+	IGUI_No_GPS_on = "Вам нужен работающий GPS.",
+
+	IGUI_Plug = "Подключить GPS",
+	IGUI_noPlugIfnoBat = "В GPS разрядилась батарейка.",
+	IGUI_noPlugIfnoCable = "Вам понадобится кабель GPS, чтобы подключить его к прикуривателю.",
+	IGUI_unPlug = "Отключить GPS",
+	IGUI_autoUnplugInfo = "GPS автоматически отключится после зарядки.",
+	IGUI_Info = "Информация",
+
+	IGUI_Item_itemGps = "Как только GPS разрядится, он отключится из-за недостаточного заряда батареи, его необходимо будет зарядить или заменить заряженной батареей.",
+	IGUI_Item_GpsCable = "Этот кабель будет использоваться для зарядки GPS на прикуривателе, в автомобиле и на одном из двух передних сидений.",
+
+	IGUI_noBattery = "Недостаточно заряда батареи!",
+	
+/**** Mini Health Panel | MiniHealthPanel ****/
+	IGUI_MiniHealth_UpdateNotes = "<CENTRE> <SIZE:medium> Исправление Mini Health Panel <LINE> <LINE> <LEFT> <SIZE:small> - Исправлены синие части тела, вызванные модом Excrementum.",
+
+/**** More Cigarettes Mod 41.71 | MoreCigsMod ****/
+	IGUI_Empty = "Пусто...",
+	IGUI_One_cigarette = "Всего одна сигарета.",
+	IGUI_Two_cigarettes = "Всего две сигареты.",
+	IGUI_There_is_some = "Есть несколько.",
+	IGUI_Less_than_half = "Менее половины.",
+	IGUI_Almost_half_a_pack = "Там почти половина пачки.",
+	IGUI_More_than_a_half = "Более половины!",
+	IGUI_Almost_a_complete_pack = "Почти полная пачка!",
+	IGUI_Full_pack = "Полная пачка!",
+
+	IGUI_Empty2 = "Пусто? Падшая женщина...",
+	IGUI_One_cigarette2 = "Только одна.",
+	IGUI_Two_cigarettes2 = "Только две.",
+	IGUI_There_is_some2 = "Всего несколько.",
+	IGUI_Less_than_half2 = "Едва половина.",
+	IGUI_Almost_half_a_pack2 = "Примерно полпачки.",
+	IGUI_More_than_a_half2 = "Более половины.",
+	IGUI_Almost_a_complete_pack2 = "Почти полная!",
+	IGUI_Full_pack2 = "Полная пачка? Неплохо.",
+
+/**** MoreLockManagementSA | MoreLockManagementSA ****/
+	IGUI_MoreLock_INFO_Credits = "<br>Correction FR: SaraBien<br>Translation EN: Xianah<br>Traducci?n ES: CarlosRojasCu<br>Перевод RU (Отдельный мод): neutron6663",
+
+	IGUI_Item_Key_Duplication_Machine = "<br>Этот слесарный инструмент используется для дублирования ключей, создания пустых ключей,<br>а также для обработки замков, дверных ручек и извлечения замков навесных замков.<br>Этот инструмент работает с любым источником питания.<br>Этот инструмент работает только внутри помещений (внутри зданий).",
+
+	IGUI_Item_BlankKeyPadlock = "<br>Этот пустой ключ от навесного замка используется для дублирования любого ключа от навесного замка.<br><br>Для этого вам понадобится:<br><br>Существующий ключ или соответствующий инструмент для печати, хорошо настроенный.<br>Для этого вам понадобится машина для дублирования ключей и источник питания (в помещении).<br><br>Вы могли бы изготовить этот пустой ключ с помощью некоторого оборудования и материалов",
+
+	IGUI_Item_BlankCarKey = "<br>Этот пустой ключ от автомобиля используется для дублирования любого ключа от автомобиля.<br>Для этого вам понадобится:<br><br>Существующий ключ или соответствующий хорошо настроенный инструмент для печати.<br>Для этого вам понадобится машина для дублирования ключей и источник питания (в помещении).<br><br>Вы могли бы изготовить этот пустой ключ с помощью некоторого оборудования и материалов",
+
+	IGUI_Item_BlankHouseKey = "<br>Этот пустой ключ от дома используется для дублирования любого ключа от дома.<br>Для этого вам понадобится:<br><br>Существующий ключ или соответствующий хорошо настроенный инструмент для печати.<br>Для этого вам понадобится машина для дублирования ключей и источник питания (в помещении).<br><br>Вы могли бы изготовить этот пустой ключ с помощью некоторого оборудования и материалов",
+
+	IGUI_Item_CarKeyCutter = "<br>Этот инструмент останется второстепенным, но необходимым для решения некоторых задач, связанных с возможностями нескольких профессий, таких как снятие замков/Neiman с автомобилей и зданий, а также обработка на машине для дублирования ключей.<br><br>С помощью этого инструмента, вы сможете:<br><br>Снимать замки с навесных замков (требуется машина).<br>Снимать дверные ручки с дверей.<br>Надевайте/снимайте замки с дверных ручек.<br>Преобразуйте пустой замок на дверной ручке (требуется машина).<br>Преобразуйте пустую блокировку на Neiman (требуется машина).<br>Создайте уникальный пустой замок с помощью соответствующего инструмента для печати и хорошо сконфигурируйте его (требуется станок).<br>Надевайте/снимайте замки с автомобильных дверей и багажников.<br>Дублируйте существующие ключи.<br>И многие другие функции, которые вы откроете для себя постепенно.",
+
+	IGUI_Item_PrintToolCar = "<br>Этот инструмент используется для отпечатка Neiman автомобиля,<br>чтобы иметь возможность создавать отпечатки на пустом ключе автомобиля или конвертировать Neiman с пустым замком.<br>Вы можете сгенерировать случайный идентификатор, чтобы перенастроить замок с уникальным идентификатором.<br>Машина для дублирования ключей и некоторая мощность будут быть обязанным делать отпечатки.<br>Сделав отпечаток автомобиля (neiman), вы можете запустить его благодаря инструментам, после выключения инструменты будут сброшены.<br>Как только инструмент настроен, он становится ключом.",
+
+	IGUI_Item_PrintTool = "<br>Этот инструмент используется для снятия отпечатков с замков дома,<br>чтобы иметь возможность снимать отпечатки с пустого замка или ключа от дома,<br>Вы можете сгенерировать случайный идентификатор, чтобы перенастроить замок с уникальным идентификатором.<br>Для этого потребуется машина для дублирования ключей и некоторая мощность. отпечатки.",
+
+	IGUI_Item_KitBlankLockKeyHouse = "<br>Этот пустой замок особенный:<br>Вы сможете создать замок из пустого замка, либо для дверной ручки, либо для Neimans, а также возможность создать уникальный идентификатор с помощью соответствующего инструмента для печати, случайно подтвержденного<br>или дублировать существующий отпечаток с помощью соответствующего инструмента (если это для дверной ручки, замок должен быть снят с дверной ручки).<br>Потребуется машина для дублирования ключей и некоторое питание.<br>Содержит пустой ключ от дома",
+
+	IGUI_Item_KitLockKeyHouse = "<br>Этот пустой замок подойдет для установки на дверную ручку (без какого-либо существующего замка и снятый с его двери), таким образом, вы получите новый замок для защиты дома или любого здания.<br>Содержит ключ",
+
+	IGUI_Item_CarLockDoorPart = "<br>Это замок двери автомобиля,<br>он будет использоваться на дверях автомобиля или багажниках автомобиля (снаружи автомобиля),<br>Требуются слесарные плоскогубцы",
+
+	IGUI_Item_CarLockNeimanPart = "<br>Эта механическая деталь будет полезна для ремонта автомобиля с горячей проводкой (потребуется несколько приспособлений и навыков).<br>Вы сможете установить новый замок благодаря хорошо настроенному замку blank и инструменту для отпечатывания, машине для дублирования ключей и источнику питания.<br>Удалить Neiman будет быстрее, если у вас есть соответствующий ключ.",
+	
+	IGUI_Recipe_NoteIDtoCarObject = "<br>С помощью ручки вы сможете отметить идентификатор объекта на самом себе, starcraft на целевом объекте",
+
+	IGUI_Recipe_NoteIDtoObject = "<br>С помощью ручки вы сможете отметить идентификатор объекта на самом себе, starcraft на целевом объекте",
+
+	IGUI_Recipe_matchTooltoNeiman = "<br>Вам понадобится соответствующий инструмент для печати.",
+
+	IGUI_Recipe_matchTooltoKitLock = "<br>Вам понадобится соответствующий инструмент для печати.",
+
+	IGUI_Recipe_RemoveLockOnDoorKnobWithKey = "<br>Вы можете правильно снять замок с помощью соответствующего ключа.",
+
+	IGUI_Recipe_NeedGoodPrintMachine = "<br>Вам понадобится соответствующий инструмент для оттиска с жизнеспособным отпечатком на нем.<br>Требуется устройство для дублирования ключей и источник питания.",
+
+	IGUI_Recipe_MachineNeedElec = "<br>Вам понадобится устройство для дублирования ключей и источник питания.",
+
+	IGUI_Recipe_matchTooltoDoorknob = "<br>Вам понадобится соответствующий инструмент для печати.<br>Дверная ручка с замком.",
+
+	IGUI_Recipe_SetDoorknobWithKitLock = "<br>Вам понадобится дверная ручка без замка.",
+	
+	IGUI_MoreLock_INFO 	 = "<br>Чтобы попрактиковаться в профессии слесаря, потребуются навыки для какого-нибудь ремесла.<br>Занятие деятельностью слесаря не наскучит вам, и вы заработаете опыт (немного).<br>Устройство для дублирования ключей должно использоваться в помещении с источником питания.<br>При создании, пожалуйста, выберите наиболее логичный целевой объект для этого ремесла в первую очередь:<br>пример: Чтобы дублировать ключ автомобиля, начните создавать на существующем ключе от автомобиля, а не на пустом ключе от автомобиля.<br>Инструменты отпечатка можно использовать в качестве ключей. Выбор транспортных средств будет эфемерным.<br>Опция создания, связанная с дублированием печати, зависит от самого инструмента, у него должна быть<br>существующая печать, чтобы увидеть доступные связанные ремесла.",
+
+	IGUI_MoreLock_INFO_1 = "<br>Машина для дублирования ключей (Key_Duplication_Machine): Этот инструмент используется для дублирования<br>ключей и создания пустых ключей. Вы можете снова обработать замок, дверную ручку и прочее.<br>Для этого инструмента требуется питание.<br>Этот инструмент работает только внутри помещений (внутри зданий)<br>",
+	
+	IGUI_MoreLock_INFO_2 = "<br>Слесарные плоскогубцы (CarKeyCutter): Используются для извлечения навесных замков, установки / снятия<br>замков с дверных ручек, преобразования пустых замков для установки на дверную ручку или на Neiman, Установки / снятия замков с автомобильных дверей, багажников и зданий.<br>Дублируйте любые существующие ключи и многое другое.",
+	
+	IGUI_MoreLock_INFO_3 = "<br>Инструмент для печати (PrintTool): Этот инструмент используется для отпечатывания замков с домов, чтобы<br>скопировать его на пустой замок или пустой ключ, для этого потребуется машина для дублирования ключей и питание.<br>Для этого также можно случайным образом сгенерировать отпечаток.<br>",
+	
+	IGUI_MoreLock_INFO_4 = "<br>Инструмент для печати Neiman's Imprinting Tool (PrintToolCar): Этот инструмент используется для печати Neimans,<br>чтобы скопировать его на пустой ключ, для этого потребуется устройство для дублирования ключей и питание.<br>Для этого также можно случайным образом сгенерировать отпечаток.<br>",
+	
+	IGUI_MoreLock_INFO_5 = "<br>Neiman (CarLockNeimanPart): Эта механическая деталь будет использоваться для ремонта неисправного автомобиля.<br>Возьмите этот Neiman в руки, чтобы убедиться, что вы его настроили.<br>Когда вы снимаете Neiman, вы берете его идентификатор, таким образом, вы можете изменить идентификатор ключей.<br>Тем не менее, когда автомобиль остается подключенным к сети, замки автомобильных дверей (IDS) останутся неизменными",
+	
+	IGUI_MoreLock_INFO_6 = "<br>Автомобильный дверной замок (CarLockDoorPart): Это автомобильный дверной замок для автомобиля.<br>Вы можете установить его на багажник или на наружные двери, требуются слесарные плоскогубцы.<br>Можно найти где угодно или на транспортных средствах.<br>",
+	
+	IGUI_MoreLock_INFO_7 = "<br>Пустой ключ от дома (BlankHouseKey): необходим для дублирования ключей от дома. Требуется существующий ключ<br>или соответствующий инструмент для печати, хорошо настроенный. Требуется машина для дублирования ключей.<br>Вы можете изготовить некоторые из них с помощью нескольких приспособлений и материалов.<br>",
+	
+	IGUI_MoreLock_INFO_8 = "<br>Пустой ключ от автомобиля (BlankCarKey): необходим для дублирования ключей от автомобиля. Требуется существующий ключ<br>или соответствующий инструмент для печати, хорошо настроенный. Требуется машина для дублирования ключей.<br>Вы можете изготовить некоторые из них с помощью нескольких приспособлений и материалов.<br>",
+	
+	IGUI_MoreLock_INFO_9 = "<br>Пустой ключ навесного замка (BlankKeyPadlock): необходим для дублирования ключей навесного замка. Требуется существующий ключ<br>или соответствующий инструмент для печати, хорошо настроенный. Требуется машина для дублирования ключей.<br>Вы можете изготовить некоторые из них с помощью нескольких приспособлений и материалов, включая ключ от висячего замка.<br>",
+	
+	IGUI_MoreLock_INFO_10 = "<br>Пустой замок (KitBlankLockKeyHouse): Этот замок особенный, вы можете создать уникальный замок<br>или настроить печать на нем с помощью соответствующего инструмента для печати (дверная ручка без замка не требуется) и машины для дублирования ключей<br>Вы можете создать замок или настроить его печать на Neiman с помощью машины.<br>В любом случае вам понадобится соответствующий инструмент для печати, хорошо настроенный с идентификатором.",
+	
+	IGUI_MoreLock_INFO_11 = "<br>Дверной замок (KitLockKeyHouse): Этот замок устанавливается на дверную ручку без замка, таким образом, вы получите новый замок на ней, чтобы обезопасить дом или любое здание.<br>Вы найдете его где угодно или заберете обратно из висячего замка благодаря машине для дублирования ключей.<br>Вы можете создать его с помощью инструмента blank lock и imprinting, подтвержденного идентификатором.",
+	
+	IGUI_MoreLock_INFO_12 = "<br>Дверная ручка (Doorknob): Эта дверная ручка может иметь замок или не иметь его.<br>Чтобы точно установить эту дверную ручку на дверь, возьмите ее в руки.<br>Двери без замков будут рассматриваться как безвозвратные дверные ручки.<br>Чтобы добавить замок к двери, вам понадобится дверная ручка с замком.",
+	
+	IGUI_MoreLock_INFO_13 = "<br>Навесной замок (Padlock): Вы можете восстановить замок на навесном замке с помощью машины для дублирования ключей.<br>Этот замок будет полезен для дверной ручки без замка (снятые дверные ручки).<br><br>",
+
+	IGUI_MoreLock_INFO_14 = "Разработано AuD, если вы столкнетесь с какой-либо ошибкой/несоответствием, вы можете связаться со мной через страницу мастерской мода MoreLock Management ;).<br>Если где-то неправильно переведено, то обращайтесь к neutron#6663 на сервере Discord: discord.gg/mFH9sC9yvz",
+	
+	IGUI_MoreLock_info = "Информация",
+
+	IGUI_GoodPrint = "Отпечаток в порядке и пригоден",
+
+	IGUI_Put_Lock_On_Door = "Установить дверную ручку (с замком в комплекте)",
+	IGUI_Take_Print_From_LockDoor = "Сделать отпечаток дверного замка",
+	IGUI_Remove_Lock_On_Door = "Снять дверную ручку (вместе с замком)",
+	IGUI_Door_Is_Locked = "Я ничего не могу сделать с закрытой дверью.",
+	IGUI_No_Lock_On_Door = "Там нет замка.",
+	IGUI_Door_Contain_Lock = "Я должен снять дверную ручку с этой двери.",
+
+	IGUI_MoreLock_Locksmith = "Профессия слесаря",
+	
+	IGUI_RestoreNeimanFail = "Транспортное средство должно быть выключено без ключа в замке зажигания.",
+	IGUI_RestoreNeimanFail1 = "Транспортное средство должно быть выключено, Neiman снят! (Без ключа)",
+	IGUI_RestoreNeimanFail2 = "Транспортное средство должно быть выключено без ключа в замке зажигания! (Neiman на позиции)",
+	IGUI_RestoreNeimanFail3 = "Замок, кажется, на месте.",
+	
+	IGUI_RestoreNeiman = "Восстановить Neiman",
+ 
+	IGUI_VehicleNotReady = "Транспортное средство не готово.",
+	
+	IGUI_VehicleIsLocked = "Дверь машины заперта!",
+
+	IGUI_ToolRecupFromContac = "Инструмент был извлечен и сброшен!",
+	
+	IGUI_Hotwire_and_TakeNeiman = "Подключить машину и снять Neiman",
+	IGUI_Take_NeimanPrint = "Сделать отпечаток Neiman",
+	IGUI_Take_lock = "Снять замок",
+	IGUI_Lock_Repair = "Установить замок",	
+	IGUI_Vehicle_Door_Is_Locked = "Дверь машины, кажется, заперта.",
+	
+	IGUI_PrintNumberCheck = "Отпечатки: ",
+	IGUI_ToolNoID = "На этом инструменте нет пригодного отпечатка.",
+	IGUI_PrintNull = "Нет отпечатка, пригодной для использования!",
+	IGUI_LockNull = "На нем нет никакого замка.",
+	IGUI_matchTooltoDoorknob = "Я впечатал замок в дверную ручку: ",
+	IGUI_No_matchTooltoDoorknob = "Есть проблема с этой дверной ручкой...",
+	IGUI_CreateCarKeyFromPrintTool = "Я создал ключ от машины по отпечатку на этом инструменте.",
+	IGUI_CreateHouseKeyFromPrintTool = "Я создал ключ от дома по отпечатку на этом инструменте.",
+	IGUI_AddBlankLockOnDoorKnobFromPrintTool = "Сгенерирована блокировка (такая же, как у инструмента)",
+	IGUI_SetDoorknobWithKitLock = "К этой дверной ручке был добавлен замок.",
+	IGUI_doorKnobContainLock = "На этой дверной ручке уже есть замок!",
+	IGUI_Get_Scrapt_And_Lock = "Металлические обрезки, извлеченные вместе с замком.",
+	IGUI_Get_Scrapt_FromLock = "Металлические обрезки, извлеченные при разрушении замка.",
+	IGUI_Fail = "Не получилось!",
+	
+	IGUI_GeneratePrintToolKeyID = "Созданный отпечаток: ",
+	IGUI_matchTooltoObject = "Я сделал отпечаток этого: ",
+	IGUI_No_matchTooltoObject = "Есть проблема...",
+	IGUI_TakeKitLockWithKey = "Замок был восстановлен благодаря своему ключу",
+	IGUI_AddBlankLockOnNeimanFromPrintTool = "К этому Neiman'у был добавлен замок (такой же, как и у инструмента)",
+	
+	IGUI_KeyDuplicate = "И вот мы здесь, дублированный ключ: ",
+	IGUI_KeyDuplicateFail = "Ключ был поврежден... это провал! Мне нужно выбрать пригодный ключ для дублирования...",
+	IGUI_AddBlankKey = "Вот он, пустой ключ.",
+
+	IGUI_Merde = "Падшая женщина!",
+
+	IGUI_WillPutLockOnDoor = "Я собираюсь поменять эту дверную ручку...",
+	IGUI_LockOnDoorIsPutted = "Я сменил эту дверную ручку.",
+
+	IGUI_WillTakeLockOnDoor = "Я собираюсь снять эту дверную ручку...",
+	IGUI_LockOnDoorIsTaked = "Я снял эту дверную ручку. (С кем я разговариваю...)",
+
+	IGUI_WillPutLockOnCarDoor = "Я собираюсь сменить этот замок...",
+	IGUI_LockOnCarDoorIsPutted = "Я сменил этот замок.",
+
+	IGUI_WillTakeLockOnCarDoor = "Я собираюсь снять этот замок...",
+	IGUI_LockOnCarDoorIsTaked = "Я снял этот замок.",
+
+	IGUI_WillTakeDoorPrint = "Я собираюсь сделать отпечаток этой двери...",
+	IGUI_PrintIsTakedOnDoor = "Мне удалось сделать отпечаток этой двери.",
+
+	IGUI_WillTakeNeiman = "Я собираюсь снять этот Neiman...",
+	IGUI_NeimanIsTaked = "Я снял Neiman и взял его в руки!",
+	IGUI_GoodKeyForRemove = "У меня есть соответствующий ключ, чтобы удалить это наилучшим способом, который я могу!",
+
+	IGUI_WillTakePrintOnNeiman = "Я собираюсь сделать отпечаток этого Neiman'а...",
+	IGUI_PrintOnNeimanIsTaked = "Я успешно сделал отпечаток Neiman'а! ",
+
+	IGUI_WillRestoreNeiman = "Я собираюсь восстановить этот Neiman...",
+	IGUI_NeimanIsRestored = "Новый Neiman на позиции!",
+
+	IGUI_KeyDuplicateName = "Дубликат ключа",
+
+/**** Reduce lag of Crafting menu | ReduceLagofCraftingMenu ****/
+	IGUI_CraftUI_Titlel = "Создание предметов (нажмите "0", чтобы обновить!)",
+	IGUI_CraftUI_Notel = "Если вы не нашли новый рецепт, который изучили, нажмите цифру "0", чтобы обновить меню создания предметов. Это займет немного времени.",
+
+/**** Scrap Armor (new version) | ScrapArmor(new version) ****/
+	IGUI_ItemCat_Armor = "Броня"
+
+/**** Simple sling mod | Simplesling ****/
+	IGUI_CraftCategory_Tailoring = "Портняжное дело",
+	IGUI_HotbarAttachment_Sling = "Простой ремень (I)",
+	IGUI_HotbarAttachment_SlingAlt = "Простой ремень (II)",
+	IGUI_HotbarAttachment_SlingAlt2 = "Простой ремень (III)",
+	IGUI_HotbarAttachment_SlingAlt3 = "Простой ремень (IV)",
+	IGUI_HotbarAttachment_Back2 = "Простой тактический жилет (спина)",
+	IGUI_HotbarAttachment_Back3 = "Спина",
+	IGUI_HotbarAttachment_KatanaSheath = "Ножны для катаны",
+	IGUI_HotbarAttachment_KnifeSheath = "Ножны",
+	IGUI_HotbarAttachment_KnifeSheathBack = "Ножны (спина)",
+	IGUI_HotbarAttachment_ChestRig = "Разгрузочная система",
+	IGUI_HotbarAttachment_ChestRigRight = "Разгрузочная система (сбоку)",
+
+/**** World Time Manager | WorldTimeManager ****/
+	IGUI_SetDate        = "Установить дату",
+	IGUI_SetTime        = "Установить время",
+	IGUI_SyncTime       = "Синхронизироваться с системным временем",
+	IGUI_Close          = "Отмена",
+
+	IGUI_ConfirmSyncTime = "Синхронизировать мировое время с системным временем?",
+
+	IGUI_Month_0        = "Январь",
+	IGUI_Month_0_short  = "Янв",
+
+	IGUI_Month_1        = "Февраль",
+	IGUI_Month_1_short  = "Фев",
+
+	IGUI_Month_2        = "Март",
+	IGUI_Month_2_short  = "Мар",
+
+	IGUI_Month_3        = "Апрель",
+	IGUI_Month_3_short  = "Апр",
+
+	IGUI_Month_4        = "Май",
+	IGUI_Month_4_short  = "Май",
+
+	IGUI_Month_5        = "Июнь",
+	IGUI_Month_5_short  = "Июн",
+
+	IGUI_Month_6        = "Июль",
+	IGUI_Month_6_short  = "Июл",
+
+	IGUI_Month_7        = "Август",
+	IGUI_Month_7_short  = "Авг",
+
+	IGUI_Month_8        = "Сентябрь",
+	IGUI_Month_8_short  = "Сен",
+
+	IGUI_Month_9        = "Октябрь",
+	IGUI_Month_9_short  = "Окт",
+
+	IGUI_Month_10       = "Ноябрь",
+	IGUI_Month_10_short = "Ноя",
+
+	IGUI_Month_11       = "Декабрь",
+	IGUI_Month_11_short = "Дек",
+}

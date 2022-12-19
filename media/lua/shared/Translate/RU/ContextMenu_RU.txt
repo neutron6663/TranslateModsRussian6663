@@ -1,0 +1,59 @@
+ContextMenu_RU = {
+/**** Arsenal(26) GunFighter | Arsenal(26)GunFighter ****/
+	ContextMenu_FireMode_Short	= "Закрыть",
+	ContextMenu_FireMode_Medium	= "Средний",
+	ContextMenu_FireMode_Long	= "Длинный",
+	ContextMenu_FireMode_Single[H]	= "Одиночный",
+	ContextMenu_FireMode_Auto[H]	= "Автоматический",
+	ContextMenu_FireMode_[2]Burst	= "[2]Взрыв",
+	ContextMenu_FireMode_[3]Burst	= "[3]Взрыв",
+	ContextMenu_FireMode_[H2]Burst	= "[2]Взрыв",
+	ContextMenu_FireMode_[H3]Burst	= "[3]Взрыв",
+	ContextMenu_FireMode_[3]Rotary	= "[3]Вращаемый",
+	ContextMenu_FireMode_[6]Rotary	= "[6]Вращаемый",
+
+/**** Basements | Basements ****/
+	ContextMenu_Basement = "Подвал",
+
+/**** MoreLockManagementSA | MoreLockManagementSA ****/
+	ContextMenu_MetalSkill          = "Навык работать с металлом: ",
+	ContextMenu_WoodSkill           = "Навык плотника: ",
+	ContextMenu_Betlock             = "Навык взламывать замки: ",
+	ContextMenu_ElecSkill           = "Навык работы с электричеством: ",
+	ContextMenu_MecaSkill           = "Навык механики: ",
+	ContextMenu_LockSmithJob        = "Вы слесарь",
+
+	ContextMenu_isHotwired          = "Neiman отсуствует",
+	ContextMenu_isNotHotwired       = "Neiman установлен",
+
+	ContextMenu_RestoreNeimanFail4  = "Замок отсутствует",
+
+	ContextMenu_isEngineStarted     = "Двигатель запускается",
+	ContextMenu_isEngineRunning     = "Двигатель запущен",
+	ContextMenu_isKeysInIgnition    = "Ключ в замке зажигания",
+	ContextMenu_isNotDriverPlayer   = "Вы не водитель",
+
+	ContextMenu_ContainLockPart     = "На двери машины есть замок",
+
+	ContextMenu_infoKeyRemove       = "Это было бы быстрее, если бы у вас был ключ",
+	ContextMenu_GoodKeyRemove       = "У вас есть этот ключ Neiman'а",
+
+	ContextMenu_NoDoorknobHand      = "Если бы у вас в руках была эта дверная ручка, вы бы обязательно воспользовались этим.",
+	ContextMenu_NoNeimanHand        = "Если бы у вас в руках был Neiman, вы бы обязательно воспользовались этим.",
+
+	ContextMenu_PrintToolCarInIgnition = "Инструменты для отпечатывания Neiman'а включаются при зажигании",
+
+/**** Scrap Armor (new version) | ScrapArmor(new version) ****/
+	ContextMenu_WearIt = "Wear",
+
+/**** Simple sling mod | Simplesling ****/
+	ContextMenu_SlingStyle1 = "Перед \",
+	ContextMenu_SlingStyle2 = "Перед /",
+	ContextMenu_SlingStyle3 = "Перед --",
+	ContextMenu_SlingStyle4 = "Назад",
+	ContextMenu_WearTight = "Носить плотно",
+	ContextMenu_WearLoose = "Носить свободно",
+	ContextMenu_Wearup = "Носить",
+	ContextMenu_KnifeSheath_Wear = "Ножны на бедре",
+	ContextMenu_KnifeSheath_WearBack = "Ножны на поясе",
+} 

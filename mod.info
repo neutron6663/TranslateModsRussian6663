@@ -1,0 +1,14 @@
+name=Перевод модов на русский язык
+id=TranslateModsRussian6663
+poster=poster.png
+icon=logo_mini.png
+authors=neutron6663
+tag=Language,Translation
+modversion=19.12.2022
+description=<RGB:0.5,0.5,1>Общее количество: 40 <RGB:0.8,0.8,0.8><LINE><LINE>
+description=ID переведённых модов: <RGB:0.8,0.6,0.4><LINE>
+description=82jeepJ10, 82oshkoshM911, 86fordE150, 97bushmaster, Arsenal(26)GunFighter, AutoGate, Basements, blkt_invtrack, Brita, DRAW_ON_MAP, DonazosFisticuffs,
+description= DonsFistWrapsVisible, EasyConfigChucked, Excrementum, FarmingCoffee, FC4WT, FRUsedCars, iMeds, itemGPS, jarris_HMBP, Kaldo_CarDashboardRadioButton,
+description= Literature&Magazines, MiniHealthPanel, MoarCanOpeners, MoreCigsMod, MoreLockManagementSA, NCWBP, OgreHeart_ScentOfBlood, ReduceLagofCraftingMenu,
+description= RealMetalworking, ScrapGuns(new version), ScrapArmor(new version), ScrapWeapons(new version), showweaponstatsplus, Simplesling, SkillRecoveryJournal,
+description= survivingthroughseasons, ToadTraits, ToadTraitsDynamic, WorldTimeManager

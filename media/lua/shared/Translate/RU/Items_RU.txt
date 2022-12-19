@@ -1,0 +1,80 @@
+Items_RU = {
+/**** Literature and Magazines | Literature&Magazines ****/
+  DisplayName_MagazinePlayboy                = "Playboy",
+	DisplayName_AB2_Guns_Aim_2                 = "Оружие, Том 2. (Прицеливание) - Средний",
+	DisplayName_AB2_Guns_Aim_3                 = "Оружие, Том 3. (Прицеливание) - Продвинутый",
+	DisplayName_AB2_Guns_Aim_4                 = "Оружие, Том 4. (Прицеливание) - Эксперт",
+	DisplayName_AB2_Guns_Aim_5                 = "Оружие, Том 5. (Прицеливание) - Мастер",
+	
+  DisplayName_AB2_Guns_Rel_1                 = "Оружие, Том 1. (Перезарядка) - Новичок",
+	DisplayName_AB2_Guns_Rel_2                 = "Оружие, Том 2. (Перезарядка) - Средний",
+	DisplayName_AB2_Guns_Rel_3                 = "Оружие, Том 3. (Перезарядка) - Продвинутый",
+	DisplayName_AB2_Guns_Rel_4                 = "Оружие, Том 4. (Перезарядка) - Эксперт",
+	DisplayName_AB2_Guns_Rel_5                 = "Оружие, Том 5. (Перезарядка) - Мастер",
+
+  DisplayName_AB2_Melee_Axe_1                = "Оружие ближнего боя, Том 1. (Топоры) - Новичок",
+	DisplayName_AB2_Melee_Axe_2                = "Оружие ближнего боя, Том 2. (Топоры) - Средний",
+	DisplayName_AB2_Melee_Axe_3                = "Оружие ближнего боя, Том 3. (Топоры) - Продвинутый",
+	DisplayName_AB2_Melee_Axe_4                = "Оружие ближнего боя, Том 4. (Топоры) - Эксперт",
+	DisplayName_AB2_Melee_Axe_5                = "Оружие ближнего боя, Том 5. (Топоры) - Мастер",
+	
+  DisplayName_AB2_Melee_Blunt_1              = "Оружие ближнего боя, Том 1. (Длинное дробящее) - Новичок",
+	DisplayName_AB2_Melee_Blunt_2              = "Оружие ближнего боя, Том 2. (Длинное дробящее) - Средний",
+	DisplayName_AB2_Melee_Blunt_3              = "Оружие ближнего боя, Том 3. (Длинное дробящее) - Продвинутый",
+	DisplayName_AB2_Melee_Blunt_4              = "Оружие ближнего боя, Том 4. (Длинное дробящее) - Эксперт",
+	DisplayName_AB2_Melee_Blunt_5              = "Оружие ближнего боя, Том 5. (Длинное дробящее) - Мастер",
+	
+  DisplayName_AB2_Melee_SmallBlunt_1         = "Оружие ближнего боя, Том 1. (Короткое дробящее) - Новичок",
+	DisplayName_AB2_Melee_SmallBlunt_2         = "Оружие ближнего боя, Том 2. (Короткое дробящее) - Средний",
+	DisplayName_AB2_Melee_SmallBlunt_3         = "Оружие ближнего боя, Том 3. (Короткое дробящее) - Продвинутый",
+	DisplayName_AB2_Melee_SmallBlunt_4         = "Оружие ближнего боя, Том 4. (Короткое дробящее) - Эксперт",
+	DisplayName_AB2_Melee_SmallBlunt_5         = "Оружие ближнего боя, Том 5. (Короткое дробящее) - Мастер",	
+
+	DisplayName_AB2_Melee_LongBlade_1          = "Оружие ближнего боя, Том 1. (Длинное режущее) - Новичок",
+	DisplayName_AB2_Melee_LongBlade_2          = "Оружие ближнего боя, Том 2. (Длинное режущее) - Средний",
+	DisplayName_AB2_Melee_LongBlade_3          = "Оружие ближнего боя, Том 3. (Длинное режущее) - Продвинутый",
+	DisplayName_AB2_Melee_LongBlade_4          = "Оружие ближнего боя, Том 4. (Длинное режущее) - Эксперт",
+	DisplayName_AB2_Melee_LongBlade_5          = "Оружие ближнего боя, Том 5. (Длинное режущее) - Мастер",	
+	
+  DisplayName_AB2_Melee_SmallBlade_1         = "Оружие ближнего боя, Том 1. (Короткое режущее) - Новичок",
+	DisplayName_AB2_Melee_SmallBlade_2         = "Оружие ближнего боя, Том 2. (Короткое режущее) - Средний",
+	DisplayName_AB2_Melee_SmallBlade_3         = "Оружие ближнего боя, Том 3. (Короткое режущее) - Продвинутый",
+	DisplayName_AB2_Melee_SmallBlade_4         = "Оружие ближнего боя, Том 4. (Короткое режущее) - Эксперт",
+	DisplayName_AB2_Melee_SmallBlade_5         = "Оружие ближнего боя, Том 5. (Короткое режущее) - Мастер",	
+
+	DisplayName_AB2_Melee_Spear_1              = "Оружие ближнего боя, Том 1. (Копье) - Новичок",
+	DisplayName_AB2_Melee_Spear_2              = "Оружие ближнего боя, Том 2. (Копье) - Средний",
+	DisplayName_AB2_Melee_Spear_3              = "Оружие ближнего боя, Том 3. (Копье) - Продвинутый",
+	DisplayName_AB2_Melee_Spear_4              = "Оружие ближнего боя, Том 4. (Копье) - Эксперт",
+	DisplayName_AB2_Melee_Spear_5              = "Оружие ближнего боя, Том 5. (Копье) - Мастер",	
+	
+	DisplayName_AB2_Melee_Mai_1                = "Оружие ближнего боя, Том 1. (Уход за оружием) - Новичок",
+	DisplayName_AB2_Melee_Mai_2                = "Оружие ближнего боя, Том 2. (Уход за оружием) - Средний",
+	DisplayName_AB2_Melee_Mai_3                = "Оружие ближнего боя, Том 3. (Уход за оружием) - Продвинутый",
+	DisplayName_AB2_Melee_Mai_4                = "Оружие ближнего боя, Том 4. (Уход за оружием) - Эксперт",
+	DisplayName_AB2_Melee_Mai_5                = "Оружие ближнего боя, Том 5. (Уход за оружием) - Мастер",
+
+	DisplayName_AB2_Athl_Spr_1                 = "Атлетика, Том 1. (Спринт) - Новичок",
+	DisplayName_AB2_Athl_Spr_2                 = "Атлетика, Том 2. (Спринт) - Средний",
+	DisplayName_AB2_Athl_Spr_3                 = "Атлетика, Том 3. (Спринт) - Продвинутый",
+	DisplayName_AB2_Athl_Spr_4                 = "Атлетика, Том 4. (Спринт) - Эксперт",
+	DisplayName_AB2_Athl_Spr_5                 = "Атлетика, Том 5. (Спринт) - Мастер",
+	
+	DisplayName_AB2_Athl_Nim_1                 = "Атлетика, Том 1. (Проворность) - Новичок",
+	DisplayName_AB2_Athl_Nim_2                 = "Атлетика, Том 2. (Проворность) - Средний",
+	DisplayName_AB2_Athl_Nim_3                 = "Атлетика, Том 3. (Проворность) - Продвинутый",
+	DisplayName_AB2_Athl_Nim_4                 = "Атлетика, Том 4. (Проворность) - Эксперт",
+	DisplayName_AB2_Athl_Nim_5                 = "Атлетика, Том 5. (Проворность) - Мастер",
+	
+	DisplayName_AB2_Stea_Sne_1                 = "Стелс, Том 1. (Скрытность) - Новичок",
+	DisplayName_AB2_Stea_Sne_2                 = "Стелс, Том 2. (Скрытность) - Средний",
+	DisplayName_AB2_Stea_Sne_3                 = "Стелс, Том 3. (Скрытность) - Продвинутый",
+	DisplayName_AB2_Stea_Sne_4                 = "Стелс, Том 4. (Скрытность) - Эксперт",
+	DisplayName_AB2_Stea_Sne_5                 = "Стелс, Том 5. (Скрытность) - Мастер",
+	
+	DisplayName_AB2_Stea_Lig_1                 = "Стелс, Том 1. (Легконогий) - Новичок",
+	DisplayName_AB2_Stea_Lig_2                 = "Стелс, Том 2. (Легконогий) - Средний",
+	DisplayName_AB2_Stea_Lig_3                 = "Стелс, Том 3. (Легконогий) - Продвинутый",
+	DisplayName_AB2_Stea_Lig_4                 = "Стелс, Том 4. (Легконогий) - Эксперт",
+	DisplayName_AB2_Stea_Lig_5                 = "Стелс, Том 5. (Легконогий) - Мастер",
+}

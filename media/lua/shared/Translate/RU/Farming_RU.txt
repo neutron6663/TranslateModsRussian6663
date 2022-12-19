@@ -1,0 +1,5 @@
+Farming_RU = {
+/**** Farming Coffee | FarmingCoffee ****/
+  Farming_CoffeeFruit = "Кофе",
+  Farming_Tree-CoffeeFruit = "Кофейное дерево",
+}

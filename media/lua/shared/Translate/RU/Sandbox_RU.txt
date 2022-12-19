@@ -1,0 +1,76 @@
+Sandbox_RU = {
+/**** '97 ADI Bushmaster | 97bushmaster ****/
+	Sandbox_DAMN_Spawns = "ГАРАНТИРОВАННЫЙ СПАВН",
+	Sandbox_DAMN_AllowBushmasterSpawns = "Включить предустановленные спавны ADI Bushmaster '97",
+
+/**** Excrementum | Excrementum41 ****/
+	Sandbox_Excrementum = "СПРАВЛЕНИЕ НУЖДЫ",
+
+/**** Immersive Medicine | iMeds ****/
+	Sandbox_ImmersiveMedicine = "ИММЕРСИВНАЯ МЕДИЦИНА",
+
+/**** More Traits | ToadTraits ****/
+	Sandbox_MoreTraits = "ДОП. ЧЕРТЫ ХАРАКТЕРА",
+
+/**** More Traits - Dynamic Traits | ToadTraitsDynamic ****/
+	Sandbox_MoreTraitsDynamic = "ДИНАМИЧНЫЕ ДОП. ЧЕРТЫ ХАРАКТЕРА",
+
+/**** Moar Can Openers | MoarCanOpeners ****/
+	Sandbox_MoarCanOpeners = "ОТКРЫВАЛКИ ДЛЯ КОНСЕРВНЫХ БАНОК",
+
+/**** Skill Recovery Journal | SkillRecoveryJournal ****/
+	Sandbox_SkillRecoveryJournal = "ЛИЧНЫЙ ДНЕВНИК ИГРОКА",
+
+/**** Scent of Blood | OgreHeart_ScentOfBlood ****/
+	Sandbox_ScentOfBlood = "ЗАПАХ КРОВИ",
+	Sandbox_ScentOfBlood_scratchModifier = "Диапазон запаха при царапине",
+	Sandbox_ScentOfBlood_sbleedModifier = "Диапазон запаха при кровотечении и царапине",
+	Sandbox_ScentOfBlood_scratchModifier_tooltip = "При царапине или когда царапина перевязана грязной повязкой, зомби в этом диапазоне будут направляться в сторону игрока. Диапазон складывается в зависимости от травмы.",
+	Sandbox_ScentOfBlood_sbleedModifier_tooltip = "Суммируется с каждой отдельной царапиной, кровотечение увеличивает диапазон запаха. Установите 0, чтобы отключить.",
+	
+	Sandbox_ScentOfBlood_cutModifier = "Диапазон запаха при рваной ране",
+	Sandbox_ScentOfBlood_cbleedModifier = "Диапазон запаха при кровотечении и рваной ране",
+	Sandbox_ScentOfBlood_cutModifier_tooltip = "При рваной ране или когда рана перевязана грязной повязкой, зомби в этом диапазоне будут направляться в сторону игрока. Диапазон складывается в зависимости от травмы.",
+	Sandbox_ScentOfBlood_cbleedModifier_tooltip = "Суммируется с каждой отдельной раной, кровотечение увеличивает диапазон запаха. Установите 0, чтобы отключить.",
+	
+	Sandbox_ScentOfBlood_biteModifier = "Диапазон запаха при укусе",
+	Sandbox_ScentOfBlood_bbleedModifier = "Диапазон запаха при кровотечении и укусе",
+	Sandbox_ScentOfBlood_biteModifier_tooltip = "При укусе или когда укус перевязан грязной повязкой, зомби в этом радиусе будут призываться в сторону игрока. Диапазон складывается в зависимости от травмы.",
+	Sandbox_ScentOfBlood_bbleedModifier_tooltip = "Суммируется с каждым отдельным укусом, кровотечение увеличивает диапазон запаха. Установите 0, чтобы отключить.",
+
+	Sandbox_ScentOfBlood_dwoundModifier = "Диапазон запаха при глубокой ране",
+	Sandbox_ScentOfBlood_dbleedModifier = "Диапазон запаха при кровотечении и глубокой ране",
+	Sandbox_ScentOfBlood_dwoundModifier_tooltip = "При глубоком ране или когда глубокая рана перевязана грязной повязкой, зомби в этом радиусе будут призываться в сторону игрока. Диапазон складывается в зависимости от травмы.",
+	Sandbox_ScentOfBlood_dbleedModifier_tooltip = "Суммируется с каждой отдельной глубокой раной, кровотечение увеличивает диапазон запаха. Установите 0, чтобы отключить.",
+
+	Sandbox_ScentOfBlood_dirtModifier = "Модификатор диапазон грязных повязок",
+	Sandbox_ScentOfBlood_dirtModifier_tooltip = "Раны, перевязанные грязной повязкой, всегда предотвратят запах при кровотечении. Если установлено значение по умолчанию 50, диапазон запаха перевязанных ран грязной повязкой будет уменьшен вдвое (то есть, если Cut установлено значение 10, диапазон запаха при царапине перевязанной грязной повязкой = 5). Установите значение 0, чтобы грязные повязки работали так же, как и чистые повязки.",
+
+/**** Surviving Through Seasons | survivingthroughseasons ****/
+	Sandbox_sts = "ВРЕМЕНА ГОДА",
+
+	Sandbox_sts_MaxDaysInMonth = "Cколько дней будет длиться месяц",
+	Sandbox_sts_MaxDaysInMonth_tooltip = "Если установлено значение 10, то в каждом месяце будет 10 дней (120 дней в году). Пропуск 2 дней за каждый сыгранный 1 день. Рекомендуется установить 2+ часовых дня, если задано значение менее 10 дней. Эрозия, садоводство и т.д. будут учитываться только сыгранные дни (не пропущенные, в данном случае 120 дней)",
+
+/**** World Time Manager | WorldTimeManager ****/
+	Sandbox_WorldTimeManager = "МИРОВОЙ МЕНЕДЖЕР ВРЕМЕНИ",
+
+	Sandbox_WorldTimeManager_disabled = "Выключено",
+	Sandbox_WorldTimeManager_disabled_tooltip = "Выключает мод, если стоит галочка.",
+
+	Sandbox_WorldTimeManager_syncWorldWithSystemTime = "Синхронизация с системным временем",
+	Sandbox_WorldTimeManager_syncWorldWithSystemTime_tooltip = "Синхронизируйте мировую дату и время с системным временем при загрузке (продолжительность дня должна быть установлена в режиме реального времени)",
+
+	-- Sandbox_WorldTimeManager_utcOffset = "",
+	-- Sandbox_WorldTimeManager_utcOffset_tooltip = "",
+
+/**** Working Bench Press | NCWBP ****/
+	Sandbox_NCWorkingBenchPress = "ЖИМ ШТАНГИ ЛЁЖА",
+	Sandbox_NCWorkingBenchPress_StrengthXPMultiply = "Множитель опыта Силы",
+
+/**** Working Treadmill | FC4WT ****/
+	Sandbox_FC4WorkingTreadmill = "БЕГОВАЯ ДОРОЖКА",
+	Sandbox_FC4WorkingTreadmill_FitnessXPMultiply = "Множитель опыта Фитнеса",
+	Sandbox_FC4WorkingTreadmill_StrengthXPMultiply = "Множитель опыта Силы",
+	Sandbox_FC4WorkingTreadmill_SprintingXPMultiply = "Множитель опыта Бега",
+}

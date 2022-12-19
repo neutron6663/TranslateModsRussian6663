@@ -1,0 +1,125 @@
+UI_RU = {
+/**** Arsenal(26) GunFighter | Arsenal(26)GunFighter ****/
+	UI_optionscreen_binding_GunFighter_Mod = "Arsenal(26) GunFighter",
+	UI_optionscreen_binding_AMMO_TYPE_1 = "Ammo-Type 1",
+	UI_optionscreen_binding_AMMO_TYPE_2 = "Ammo-Type 2",
+	UI_optionscreen_binding_MAG_TYPE_1 = "Mag-Type / Melee-Grip 1",
+	UI_optionscreen_binding_MAG_TYPE_2 = "Mag-Type / Melee-Grip 2",
+	UI_optionscreen_binding_FOLD_STOCK = "Fold : Stock / Bayo ",
+	UI_optionscreen_binding_MELEE_MODE = "Melee / Launcher mode",
+	UI_optionscreen_binding_SELECT_FIRE = "Select-Fire",
+	UI_optionscreen_binding_ALT_LOAD = "Alt-Load",
+	UI_optionscreen_binding_TRAJECTORY_UP = "Trajectory-Up / CQB-Off",
+	UI_optionscreen_binding_TRAJECTORY_DOWN = "Trajectory-Down / CQB-On",
+	UI_optionscreen_binding_WEAPON_LIGHT = "Weapon-Light",
+	UI_optionscreen_binding_REFRESH_SCRIPT = "Перезагрузить скрипт оружия",
+
+/**** Car Dashboard Radio Button | Kaldo_CarDashboardRadioButton ****/
+	UI_CDRB_OpenRfm = "Автомобильное радио",
+	UI_CDRB_OpenRfmWithTrueMusic = "Автомобильное радио, ПКМ для кассетного проигрывателя",
+	
+/**** Draw On The Map | DRAW_ON_MAP ****/
+	UI_DrawOnMap_Draw = "Рисовать",
+	UI_DrawOnMap_Erase = "Стереть",
+	UI_DrawOnMap_Thickness = "Толщина",
+	UI_DrawOnMap_Fill = "Интервал",
+
+/**** Easy Config Chucked | EasyConfigChucked ****/
+	UI_NotHostNotAdminAccessDenied = "Параметры этого мода могут быть доступны только администратору или хосту.",
+	UI_InGameAccessOnly = "Доступ к параметрам этого мода можно получить только из игрового меню параметров.",
+	UI_MainMenuAccessOnly1 = "Этот мод имеет параметры, доступ к которым можно получить только из параметров главного меню.",
+	UI_MainMenuAccessOnly2 = "Примечание. Обязательно включите этот мод в главном меню, чтобы просмотреть параметры.",
+
+/**** Mini Health Panel | MiniHealthPanel ****/
+	UI_MiniHealth_Enable = "Включить мини-панель здоровья",
+
+/**** MoreLockManagementSA | MoreLockManagementSA ****/
+	UI_Deposer_la_cle_correspondante = "Выбросить ключ из двери",
+	UI_Mettre_une_nouvelle_serrure = "Поставить новую дверную ручку",
+	UI_Prendre_l'empreinte_de_la_serrure = "Получить отпечаток от двери",
+	UI_Retirer_la_serrure = "Удалить дверную ручку",
+	UI_Faire_les_fils_et_prendre_le_NEIMAN = "Зажигание и удалить Neiman",
+	UI_prendre_l'empreinte_du_NEIMAN = "Получить блокировку на Neiman",
+	UI_prendre_la_serrure = "Удалить замок",
+	UI_reparer_la_serrure = "Отремонтировать замок",
+
+	UI_Tu_as_une_cle_pour_cette_porte = "У меня есть ключ от этой двери",
+	UI_Tu_n'as_pas_de_cle_pour_cette_porte = "У меня нет ключа от этой двери",
+	UI_La_cle_est_sur_le_sol! = "Ключ на полу",
+	UI_Je_ne_pourrais_rien_faire_sur_une_porte_fermee = "Дверь заперта",
+	UI_Il_y_a_un_probleme_avec_la_serrure = "У замка есть проблема",
+	UI_Il_faudrait_enlever_la_serrure_de_la_porte! = "Сначала нужно снять замок",
+	UI_La_poignee_n'a_pas_de_serrure = "Дверная ручка не заперта",
+	UI_La_serrure_est_deja_manquante = "Отсутствует замок",
+	UI_Il_n'y_a_plus_de_neiman = "Отсутствует Neiman",
+	UI_Je_ne_pourrais_rien_faire_sur_une_portiere_fermee = "Дверь заперта",
+
+	UI_L'outils_possede_une_empreinte = "Хороший отпечаток на инструменте",
+	UI_L'outils_ne_possede_aucune_d'empreinte_exploitable = "Нет отпечатка на инструменте",
+	UI_Elle_est_foutu = "Ключ в плохом состоянии",
+	UI_Il_y_a_bien_une_empreinte = "Похоже, ключ в хорошем состоянии",
+	UI_J'ai_cree_une_empreinte_a_partir_de_cette_poignee = "Отпечаток создан на инструменте",
+	UI_Cette_poignee_correspond_la_cle = "Ключ подходит к дверной ручке",
+	UI_Cette_cle_est_foutu = "Этот ключ сломан",
+	UI_J'ai_cree_une_cle_de_voiture_a_partir_de_l'outils = "Ключ от машины создан",
+	UI_J'ai_cree_une_cle_de_maison_a_partir_de_l'outils = "Ключ от дома создан",
+
+	UI_La_porte_est_fermee = "Дверь заперта",
+
+	UI_Je_n'suis_meme_pas_dans_une_voiture_le_con = "Я не в машине",
+	UI_Le_nouveau_neiman_est_en_place = "Neiman в порядке",
+
+	UI_Il_me_faudrait_une_cle_plate_et_un_tournevis = "Нужен гаечный ключ и отвертка",
+
+	UI_Je_vais_changer_cette_serrure = "Я изменю это",
+	UI_Merde = "Дерьмо!!",
+	UI_J'ai_change_cette_serrure = "Дверь в порядке",
+
+	UI_Je_vais_prendre_cette_serrure = "Я удалю это",
+	UI_J'ai_pris_cette_serrure = "Дверная ручка в кармане",
+
+	UI_Je_vais_bientot_avoir_acces_aux_fils = "Скоро у меня будет доступ к проводам",
+	UI_Voila = "Все в порядке",
+
+	UI_Je_vais_obtenir_l'empreinte_de_cette_porte = "Я получу отпечаток замка",
+	UI_J'ai_obtenu_l'empreinte_sur_cette_poignee = "У меня есть отпечаток дверной ручки",
+
+	UI_Je_vais_recuperer_ce_neiman = "Сниму Neiman и зажигание",
+	UI_J'ai_recupere_le_neiman = "у меня есть Neiman",
+
+	UI_Je_vais_recuperer_l'empreinte_de_ce_neiman = "Я получу отпечаток Neiman",
+	
+	UI_J'ai_recupere_l'empreinte_de_ce_neiman = "У меня есть отпечаток Neiman",
+
+	UI_Et_voila_une_cle_dupliquee = "Ключ дублируется",
+	UI_Et_voila_une_cle_de_voiture_vierge = "Создается пустой ключ от машины",
+	UI_Et_voila_une_cle_de_maison_vierge = "Создается пустой ключ",
+	
+/**** Scrap Weapons (new version) | ScrapWeapons(new version) ****/
+	UI_trait_preparedscrapweapons = "Подготовлено: Самодельное оружие",
+	UI_trait_preparedscrapweaponsdesc = "Вы собирали самодельное оружие перед Апокалипсисом.<br> Вы начнёте игру с 2 самодельными оружиями в вашем инвентаре.",
+	UI_trait_scrapwarrior = "Металлический воин",
+	UI_trait_scrapwarriordesc = "Ты изучил пути настоящего воина.<br>+1 Металлообработка<br>Умение, как делать основное оружие из металлолома.",
+
+/**** Simple sling mod | Simplesling ****/
+	UI_optionscreen_binding_SlingBindings = "Дополнительные горячие клавиши",
+	UI_optionscreen_binding_Hotbar 6 = "6 слот",
+	UI_optionscreen_binding_Hotbar 7 = "7 слот",
+	UI_optionscreen_binding_Hotbar 8 = "8 слот",
+	UI_optionscreen_binding_Hotbar 9 = "9 слот",
+	UI_optionscreen_binding_Hotbar 10 = "10 слот",
+	UI_optionscreen_binding_Hotbar 11 = "11 слот",
+	UI_optionscreen_binding_Hotbar 12 = "12 слот",
+	UI_optionscreen_binding_Hotbar 13 = "13 слот",
+	UI_optionscreen_binding_Hotbar 14 = "14 слот",
+	UI_optionscreen_binding_Hotbar 15 = "15 слот",
+	UI_optionscreen_binding_Hotbar 16 = "16 слот",
+	UI_optionscreen_binding_Hotbar 17 = "17 слот",
+	UI_optionscreen_binding_Hotbar 18 = "18 слот",
+	UI_optionscreen_binding_Hotbar 19 = "19 слот",
+	UI_optionscreen_binding_Hotbar 20 = "20 слот",
+
+/**** Show Weapon Stats Plus | showweaponstatsplus ****/
+	UI_optionscreen_binding_SSUR = "Отображение повышения навыков (обновленный)",
+	UI_optionscreen_binding_SSURToggle = "Включить/Выключить окно недавно полученного опыта и уровней"
+}
