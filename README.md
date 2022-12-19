@@ -2,6 +2,9 @@
 ## Перевод и исправление текста модов на русский язык
 ![Перевод модов на русский](/poster.png)
 
+Дата изменения: 19.12.2022
+Mod ID: TranslateModsRussian6663
+
 **Моды:**
 1. `'82 Jeep J10 with Mellow Yellow truck`<br>
 Mod ID: [82jeepJ10](https://steamcommunity.com/workshop/filedetails/?id=2886832257)
