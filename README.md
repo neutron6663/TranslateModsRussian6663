@@ -15,7 +15,8 @@ Mod ID: [86fordE150](https://steamcommunity.com/workshop/filedetails/?id=2870394
 1. `'97 ADI Bushmaster`<br>
 Mod ID: [97bushmaster](https://steamcommunity.com/workshop/filedetails/?id=2897390033)
 1. `Arsenal(26) GunFighter Mod`<br>
-Mod ID: [Arsenal(26)GunFighter](https://steamcommunity.com/workshop/filedetails/?id=2297098490)
+Mod ID: [Arsenal(26)GunFighter](https://steamcommunity.com/workshop/filedetails/?id=2297098490)<br>
+(Не завершено)
 1. `Automatic Gate`<br>
 Mod ID: [AutoGate](https://steamcommunity.com/workshop/filedetails/?id=2735447453)
 1. `Basements`<br>
